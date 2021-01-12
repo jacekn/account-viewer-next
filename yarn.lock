@@ -7847,12 +7847,7 @@ lodash.uniq@^4.5.0:
   resolved "https://registry.yarnpkg.com/lodash.uniq/-/lodash.uniq-4.5.0.tgz#d0225373aeb652adc1bc82e4945339a842754773"
   integrity sha1-0CJTc662Uq3BvILklFM5qEJ1R3M=
 
-"lodash@>=3.5 <5", lodash@^4.17.11, lodash@^4.17.14, lodash@^4.17.15, lodash@^4.17.19, lodash@^4.17.5:
-  version "4.17.19"
-  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.19.tgz#e48ddedbe30b3321783c5b4301fbd353bc1e4a4b"
-  integrity sha512-JNvd8XER9GQX0v2qJgsaN/mzFCNA5BRe/j8JN9d+tWyGLSodKQHKFicdwNYzWwI3wjRnaKPsGj1XkBjx/F96DQ==
-
-lodash@^4.17.13, lodash@^4.17.20, lodash@^4.17.3:
+"lodash@>=3.5 <5", lodash@^4.17.11, lodash@^4.17.13, lodash@^4.17.14, lodash@^4.17.15, lodash@^4.17.19, lodash@^4.17.20, lodash@^4.17.3, lodash@^4.17.5:
   version "4.17.20"
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.20.tgz#b44a9b6297bcb698f1c51a3545a2b3b368d59c52"
   integrity sha512-PlhdFcillOINfeV7Ni6oF1TAEayyZBoZ8bcshTHqOYJYlrqzRK5hagpagky5o4HfCzzd1TRkXPMFq6cKk9rGmA==
@@ -11373,10 +11368,10 @@ stellar-identicon-js@^1.0.0:
   dependencies:
     html-webpack-plugin "^3.2.0"
 
-stellar-sdk@^6.0.0:
-  version "6.0.0"
-  resolved "https://registry.yarnpkg.com/stellar-sdk/-/stellar-sdk-6.0.0.tgz#65dfe14f73fe534f29496e1f91f9153075c70f82"
-  integrity sha512-S51rODPjcypv4nvDjAEgnpIbKE7lYGFA+UjN/GbNYh45qgHjuDqK5279+DOfl6RrJ9AENR5OoDfh9jEuE/CFBw==
+stellar-sdk@^6.2.0:
+  version "6.2.0"
+  resolved "https://registry.yarnpkg.com/stellar-sdk/-/stellar-sdk-6.2.0.tgz#eb032e42f922994fab8e623b4ceed98c8c3e9eb4"
+  integrity sha512-+g8Rc4BIpqLqv95wx7BfHwIUPAk2yP8Yf/LoeLn49APwvczNVwF8O1pxPZfx/2zFZ2pdTX8/kpWQ+hqVmQe9dQ==
   dependencies:
     "@types/eventsource" "^1.1.2"
     "@types/node" ">= 8"
